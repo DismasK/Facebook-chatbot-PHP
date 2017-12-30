@@ -10,3 +10,10 @@ This will authorise the webhook and send messages back to your BOT. Created as i
 4. Send your bot a message and the bot will reply with **You said: (your message)**
 
 
+###### Todo
+
+- [x] Create the main commit.
+- [ ] Update the codebase to allow for easier readability. 
+- [ ] Add the extra code to allow for broadcast messages.
+- [ ] put everything into a class to allow for the easier making of chatbots.
+- [ ] add basic NLP to the code.
